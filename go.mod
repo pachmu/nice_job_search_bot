@@ -1,6 +1,6 @@
 module github.com/pachmu/nice_job_search_bot
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible
